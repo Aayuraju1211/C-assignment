@@ -1,7 +1,19 @@
+//Question
+// #include <iostream>
+// using namespace std;
+// int main()
+// {
+// int x,y;
+// cin>>x>>y;
+// x+=y;
+// x-=y;
+// x%=y;
+// cout<<x;
+// }
+
+// Solution
 #include<iostream>
 using namespace std;
 int main(){
-    cout<<"Int data type take 4 bytes space."<<endl;
-    cout<<"bool data type take 1 bytes space."<<endl;
-    cout<<"float data type take 4 bytes space."<<endl;
+    cout<<"The output will be: 2";
 }
